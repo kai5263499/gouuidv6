@@ -1,6 +1,5 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/kai5263499/gouuidv6)](https://goreportcard.com/report/github.com/kai5263499/gouuidv6)
-![lint](https://github.com/kai5263499/gouuidv6/actions/workflows/lint.yml/badge.svg)
-![test](https://github.com/kai5263499/gouuidv6/actions/workflows/test.yml/badge.svg)
+![lint & test](https://github.com/kai5263499/gouuidv6/actions/workflows/lint_test_semver.yml/badge.svg)
 ![race](https://github.com/kai5263499/gouuidv6/actions/workflows/race.yml/badge.svg)
 ![static](https://github.com/kai5263499/gouuidv6/actions/workflows/static.yml/badge.svg)
 
