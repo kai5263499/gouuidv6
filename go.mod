@@ -1,4 +1,4 @@
-module github.com/kai5263499/gouuidv6
+module github.com/PatchSimple/gouuidv6
 
 go 1.15
 
